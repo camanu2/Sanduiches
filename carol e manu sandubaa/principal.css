@@ -1,0 +1,22 @@
+.logo{
+    width: 25%;
+}
+body{
+    background-color: #23af62;
+    margin: 0%;
+    padding: 0%;
+}
+
+.divlogo{
+    text-align: left;
+}
+
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #EFB865;
+    padding: 10px;
+    margin: 0px;
+
+}
