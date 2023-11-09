@@ -1,4 +1,4 @@
-.titulo-contato{
+.titulo-sobre-nos{
     color: #EFB865;
     font-size: 85px;
     font-style: italic;
@@ -28,6 +28,12 @@ header {
     display: flex;
     justify-content: space-between;
     align-items: center;
+}
+
+.hamburguer {
+    text-align: center;
+    margin-top: 230px; /* margem superior para separar o conteúdo do cabeçalho */
+    margin-bottom: 230px;
 }
 
 footer {
@@ -106,3 +112,4 @@ footer {
 .copyright{
     color: #000000;
 }
+
