@@ -1,0 +1,13 @@
+* {box-sizing:border-box}
+
+main{
+  margin-top: 200px;
+}
+
+/* Contêiner de apresentação de slides */
+.slideshow-container {
+  max-width: 1000px;
+  position: relative;
+  margin: auto;
+}
+
